@@ -1,0 +1,18 @@
+.HomeDemo{
+    padding-top:50px;
+    margin-top: 60px;
+}
+.box{
+
+}
+.Rowitem{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.RowitemDemo{
+    margin-bottom:25px
+}
+.DetailImg{
+    width:100%;
+}

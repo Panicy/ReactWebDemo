@@ -1,0 +1,4 @@
+export const UPCARDEMO='Header/UPCARDEMO';
+export const CLOSEDRAWER='Drawer/CLOSEDRAWER';
+export const SHOWCHILDDRAWER='Drawer/SHOWCHILDDRAWER';
+export const ClOSECHILDDRAWER='Drawer/ClOSECHILDDRAWER';

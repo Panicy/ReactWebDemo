@@ -1,0 +1,10 @@
+@import '../node_modules/antd/dist/antd.css';
+.Icons{
+    margin: 0 10px;
+}
+.carDemo{
+    color:#1890FF;
+}
+.ToastRadio{
+    margin:20px 0;
+}
